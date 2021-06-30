@@ -1,21 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
+# Date created
 29/06/2021
 
-### Project Title
+# Project Title
 Bike share systems
 
-### Description
+# Description
 This project is about a bike share system for many major cities in the United States, to uncover bike share usage patterns.The goal of the project is to compare the use of the system among three major cities: Chicago, New York, and Washington, DC.
 
-### Files used
+# Files used
 bikeshare.py
 chicago.csv
 new_york_city.csv
 washington.csv
 
-### Credits
+# Credits
 This project was achieved thanks to the comments of several people on programming blogs:
 
 https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
